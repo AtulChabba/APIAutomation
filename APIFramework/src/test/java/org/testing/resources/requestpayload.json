@@ -1,0 +1,6 @@
+{
+"Firstname" : "{{name}}",
+"Lastname" : "Chabba",
+"id" : "{{newid}}",
+"designation" : "SDL"
+}
